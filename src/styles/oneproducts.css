@@ -1,0 +1,18 @@
+.all {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  left: 50%;
+}
+
+.box-item {
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.back {
+  transition: 0.3s;
+}
+
+.back:hover {
+  color: rgb(219, 112, 147);
+}

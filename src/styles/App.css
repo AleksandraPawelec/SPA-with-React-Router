@@ -1,0 +1,43 @@
+body {
+  /* width: 100%;
+  height: 100vh;
+  background-color: RGB(247, 202, 201); */
+  /* overflow: hidden; */
+  text-align: center;
+  overflow-x: hidden;
+}
+
+div.app {
+  width: 100%;
+  background-color: RGB(247, 202, 201);
+  min-height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  flex-basis: 25vh;
+}
+main {
+  display: flex;
+  padding: 10px 0;
+  background-color: RGB(247, 202, 201);
+  background-size: auto;
+  flex-grow: 1;
+}
+aside {
+  min-width: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+section.blog {
+  flex-grow: 1;
+}
+footer {
+  background-color: white;
+  color: black;
+  padding: 10px 0;
+  text-align: center;
+  bottom: 0;
+}

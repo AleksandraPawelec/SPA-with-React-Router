@@ -1,0 +1,50 @@
+.contact {
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+
+textarea {
+  font-size: 15px;
+  margin-top: 20px;
+  height: 200px;
+  width: 400px;
+  text-align: center;
+  line-height: 1.5;
+  border: 1px rgb(219, 112, 147) solid;
+}
+
+button {
+  display: block;
+  border: none;
+  background-color: rgb(219, 112, 147);
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-left: 770px;
+  overflow: visible;
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+h3 {
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  textarea {
+    font-size: 12px;
+    margin-top: 20px;
+    height: 180px;
+    width: 250px;
+    text-align: center;
+    line-height: 1;
+    margin-left: 100px;
+  }
+
+  button {
+    margin-left: 350px;
+    padding: 10px;
+    margin-top: 30px;
+  }
+  h3 {
+    margin-left: 200px;
+  }
+}
