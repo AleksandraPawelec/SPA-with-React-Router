@@ -10,7 +10,7 @@ const Footer2 = () => {
           opacity: 0.7
         }}
       >
-        Vegan cosmetics. Make with passion.
+        Wegańskie kosmetyki tworzone z pasją.
       </p>
     </div>
   );
