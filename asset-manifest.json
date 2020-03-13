@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/SPA-with-React-Router/./static/css/main.7bdc269b.chunk.css",
-    "main.js": "/SPA-with-React-Router/./static/js/main.bea40377.chunk.js",
-    "main.js.map": "/SPA-with-React-Router/./static/js/main.bea40377.chunk.js.map",
-    "runtime-main.js": "/SPA-with-React-Router/./static/js/runtime-main.41ba45e4.js",
-    "runtime-main.js.map": "/SPA-with-React-Router/./static/js/runtime-main.41ba45e4.js.map",
-    "static/js/2.57eaccdd.chunk.js": "/SPA-with-React-Router/./static/js/2.57eaccdd.chunk.js",
-    "static/js/2.57eaccdd.chunk.js.map": "/SPA-with-React-Router/./static/js/2.57eaccdd.chunk.js.map",
-    "index.html": "/SPA-with-React-Router/./index.html",
-    "precache-manifest.25a8d2aa426a3d4835e24eabbde965cd.js": "/SPA-with-React-Router/./precache-manifest.25a8d2aa426a3d4835e24eabbde965cd.js",
-    "service-worker.js": "/SPA-with-React-Router/./service-worker.js",
-    "static/css/main.7bdc269b.chunk.css.map": "/SPA-with-React-Router/./static/css/main.7bdc269b.chunk.css.map",
-    "static/js/2.57eaccdd.chunk.js.LICENSE": "/SPA-with-React-Router/./static/js/2.57eaccdd.chunk.js.LICENSE",
-    "static/media/coconutleaf2.jpg": "/SPA-with-React-Router/./static/media/coconutleaf2.ae06e5a3.jpg",
-    "static/media/item1.jpg": "/SPA-with-React-Router/./static/media/item1.ea3d697c.jpg",
-    "static/media/item2.jpg": "/SPA-with-React-Router/./static/media/item2.6468ceda.jpg",
-    "static/media/item3.jpg": "/SPA-with-React-Router/./static/media/item3.69accebe.jpg",
-    "static/media/zdj3c.jpg": "/SPA-with-React-Router/./static/media/zdj3c.6e87d307.jpg",
-    "static/media/zdj4c.jpg": "/SPA-with-React-Router/./static/media/zdj4c.1f19aa4a.jpg"
+    "main.css": "/SPA-with-React-Router/static/css/main.7bdc269b.chunk.css",
+    "main.js": "/SPA-with-React-Router/static/js/main.89ad65c7.chunk.js",
+    "main.js.map": "/SPA-with-React-Router/static/js/main.89ad65c7.chunk.js.map",
+    "runtime-main.js": "/SPA-with-React-Router/static/js/runtime-main.39f87de6.js",
+    "runtime-main.js.map": "/SPA-with-React-Router/static/js/runtime-main.39f87de6.js.map",
+    "static/js/2.57eaccdd.chunk.js": "/SPA-with-React-Router/static/js/2.57eaccdd.chunk.js",
+    "static/js/2.57eaccdd.chunk.js.map": "/SPA-with-React-Router/static/js/2.57eaccdd.chunk.js.map",
+    "index.html": "/SPA-with-React-Router/index.html",
+    "precache-manifest.1e5e12fcc86a91f51e91bb2fe9e4e048.js": "/SPA-with-React-Router/precache-manifest.1e5e12fcc86a91f51e91bb2fe9e4e048.js",
+    "service-worker.js": "/SPA-with-React-Router/service-worker.js",
+    "static/css/main.7bdc269b.chunk.css.map": "/SPA-with-React-Router/static/css/main.7bdc269b.chunk.css.map",
+    "static/js/2.57eaccdd.chunk.js.LICENSE": "/SPA-with-React-Router/static/js/2.57eaccdd.chunk.js.LICENSE",
+    "static/media/coconutleaf2.jpg": "/SPA-with-React-Router/static/media/coconutleaf2.ae06e5a3.jpg",
+    "static/media/item1.jpg": "/SPA-with-React-Router/static/media/item1.ea3d697c.jpg",
+    "static/media/item2.jpg": "/SPA-with-React-Router/static/media/item2.6468ceda.jpg",
+    "static/media/item3.jpg": "/SPA-with-React-Router/static/media/item3.69accebe.jpg",
+    "static/media/zdj3c.jpg": "/SPA-with-React-Router/static/media/zdj3c.6e87d307.jpg",
+    "static/media/zdj4c.jpg": "/SPA-with-React-Router/static/media/zdj4c.1f19aa4a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41ba45e4.js",
+    "static/js/runtime-main.39f87de6.js",
     "static/js/2.57eaccdd.chunk.js",
     "static/css/main.7bdc269b.chunk.css",
-    "static/js/main.bea40377.chunk.js"
+    "static/js/main.89ad65c7.chunk.js"
   ]
 }
